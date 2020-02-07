@@ -6,8 +6,6 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-identification-on-megaface)](https://paperswithcode.com/sota/face-identification-on-megaface?p=facenet-a-unified-embedding-for-face)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-youtube-faces-db)](https://paperswithcode.com/sota/face-verification-on-youtube-faces-db?p=facenet-a-unified-embedding-for-face)
 
-<a href="https://sourcerer.io/soumik12345"><img src="https://avatars1.githubusercontent.com/u/19887676?v=4" height="50px" width="50px" alt=""/></a>
-
 ### Overview
 Implementation of [FaceNet: A Unified Embedding for Face Recognition and Clustering
 ](https://arxiv.org/abs/1503.03832v3) to find the celebrity whose face matches the closest to yours.
