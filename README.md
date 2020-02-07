@@ -1,6 +1,14 @@
 # Nearest-Celebrity-Face
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-ijb-c)](https://paperswithcode.com/sota/face-verification-on-ijb-c?p=facenet-a-unified-embedding-for-face)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-labeled-faces-in-the)](https://paperswithcode.com/sota/face-verification-on-labeled-faces-in-the?p=facenet-a-unified-embedding-for-face)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-megaface)](https://paperswithcode.com/sota/face-verification-on-megaface?p=facenet-a-unified-embedding-for-face)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-identification-on-megaface)](https://paperswithcode.com/sota/face-identification-on-megaface?p=facenet-a-unified-embedding-for-face)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-youtube-faces-db)](https://paperswithcode.com/sota/face-verification-on-youtube-faces-db?p=facenet-a-unified-embedding-for-face)
+
 ### Overview
-A python application that uses Deep Learning to find the celebrity whose face matches the closest to yours.
+Implementation of [FaceNet: A Unified Embedding for Face Recognition and Clustering
+](https://arxiv.org/abs/1503.03832v3) to find the celebrity whose face matches the closest to yours.
 The input face is encoded with a pretrained inception model into a vector and then its geometric distance is calculated with the encoded vectors of all the images present in the dataset and the image with the least distance is selected.
 
 ### Installation
