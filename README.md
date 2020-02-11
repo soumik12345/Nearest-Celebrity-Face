@@ -32,10 +32,12 @@ The `TestCases` folder contains two folders `Actual` that contains full sized im
 ![](https://github.com/soumik12345/Nearest-Celebrity-Face/blob/master/Results/Figure_1-10.png)
 
 ### Citation
-```@article{1503.03832,
-Author = {Florian Schroff and Dmitry Kalenichenko and James Philbin},
-Title = {FaceNet: A Unified Embedding for Face Recognition and Clustering},
-Year = {2015},
-Eprint = {arXiv:1503.03832},
-Doi = {10.1109/CVPR.2015.7298682},
-}```
+```
+@article{1503.03832,
+  Author = {Florian Schroff and Dmitry Kalenichenko and James Philbin},
+  Title = {FaceNet: A Unified Embedding for Face Recognition and Clustering},
+  Year = {2015},
+  Eprint = {arXiv:1503.03832},
+  Doi = {10.1109/CVPR.2015.7298682},
+}
+```
