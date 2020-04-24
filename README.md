@@ -11,7 +11,7 @@ Implementation of [FaceNet: A Unified Embedding for Face Recognition and Cluster
 ](https://arxiv.org/abs/1503.03832v3) to find the celebrity whose face matches the closest to yours.
 The input face is encoded with a pretrained inception model into a vector and then its geometric distance is calculated with the encoded vectors of all the images present in the dataset and the image with the least distance is selected.
 
-**Article Link:** [http://geekyrakshit.com/deep-learning/nearest-celebrity-face/](http://geekyrakshit.com/deep-learning/nearest-celebrity-face/)
+**Article Link:** [https://soumik12345.github.io/geekyrakshit-blog/computervision/deeplearning/facenet/inception/keras/nearestcelebrityface/python/tensorflow/2019/08/07/nearest-celebrity-face.html](https://soumik12345.github.io/geekyrakshit-blog/computervision/deeplearning/facenet/inception/keras/nearestcelebrityface/python/tensorflow/2019/08/07/nearest-celebrity-face.html)
 
 ### Installation
 1. Create a new conda environment using `conda create --name nearest_celeb_face`
