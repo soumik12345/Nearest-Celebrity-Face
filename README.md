@@ -1,5 +1,7 @@
 # Nearest-Celebrity-Face
 
+[![HitCount](http://hits.dwyl.com/soumik12345/Nearest-Celebrity-Face.svg)](http://hits.dwyl.com/soumik12345/Nearest-Celebrity-Face)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-ijb-c)](https://paperswithcode.com/sota/face-verification-on-ijb-c?p=facenet-a-unified-embedding-for-face)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-labeled-faces-in-the)](https://paperswithcode.com/sota/face-verification-on-labeled-faces-in-the?p=facenet-a-unified-embedding-for-face)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facenet-a-unified-embedding-for-face/face-verification-on-megaface)](https://paperswithcode.com/sota/face-verification-on-megaface?p=facenet-a-unified-embedding-for-face)
