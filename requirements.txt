@@ -135,7 +135,7 @@ tqdm==4.28.1
 traitlets==4.3.2
 tweepy==3.6.0
 typing==3.6.4
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.14.1
